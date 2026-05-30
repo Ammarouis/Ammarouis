@@ -13,7 +13,7 @@
 I'm a passionate Software Developer who loves building scalable and intuitive applications. 
 When I'm not writing code, I'm probably experimenting with new frameworks or geeking out over clean design.
 
-- 🏢 Working at **None ** in **Jableh, Latakia, Syrian Arab Republic **
+- 🏢 Working at **None ** in **Jableh, Latakia, Syria **
 
 ## 🛠️ Tech Stack
 
