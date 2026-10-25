@@ -1,59 +1,66 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=200&section=header&text=Ammar%20Nedal%20Satouf&fontSize=50&fontColor=fff&animation=fadeIn)
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=ammarouis&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F210534182%3Fu%3Db2ea023f72770063cec55572b93097b68a95d23b%26v%3D4" alt="ammarouis hero visual" />
+</p>
 
-<div align="center">
+<p align="center"><b>Ammar Nedal Satouf</b> · Frontend or full-stack engineer<br/><sub>Senior Software &amp; Security Engineer</sub></p>
 
-### Software & Security Engineer | Lattakia, Syria
+<p align="center"><a href="https://github.com/ammarouis">GitHub</a> · <a href="https://protfileo.onrender.com/">Website</a></p>
 
-I’m a passionate software and security engineer dedicated to crafting robust applications and defending digital landscapes against cyber threats. I thrive where innovation meets security, driving projects that make a real impact.
+<details open>
+<summary><b>📌 Top projects</b></summary>
+<br/>
 
-</div>
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/projects?username=ammarouis&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F210534182%3Fu%3Db2ea023f72770063cec55572b93097b68a95d23b%26v%3D4" alt="ammarouis projects visual" />
+</p>
 
----
+- [Drax-Bot](https://github.com/Ammarouis/Drax-Bot) · ★ 1 — A Telegram bot integrated with a website API for an online chance-based game.
+- [Ammarouis](https://github.com/Ammarouis/Ammarouis) · ★ 0
+- [Wassouf-store](https://github.com/Ammarouis/Wassouf-store) · ★ 0
+- [Cyriux-Company-Website](https://github.com/Ammarouis/Cyriux-Company-Website) · ★ 0
 
-### 💻 Tech Stack
+</details>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+<details>
+<summary><b>🧰 Stack</b></summary>
+<br/>
 
----
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stack?username=ammarouis&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F210534182%3Fu%3Db2ea023f72770063cec55572b93097b68a95d23b%26v%3D4" alt="ammarouis stack visual" />
+</p>
 
-### 📈 GitHub Stats
+</details>
 
-<div align="center">
+<details>
+<summary><b>📊 By the numbers</b></summary>
+<br/>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ammarouis&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)
+<b>4</b> public repositories, <b>1</b> stars, <b>37</b> contributions in the last year, a longest streak of <b>2</b> days and <b>0</b> followers.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ammarouis&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117)
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stats?username=ammarouis&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F210534182%3Fu%3Db2ea023f72770063cec55572b93097b68a95d23b%26v%3D4" alt="ammarouis stats visual" />
+</p>
 
-</div>
+</details>
 
----
+<details>
+<summary><b>🟩 Activity</b></summary>
+<br/>
 
-### 🌱 Currently
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/heatmap?username=ammarouis&theme=neon" alt="ammarouis contribution activity" />
+</p>
 
-- 📚 Learning: **Exploring cutting-edge cybersecurity techniques and the transformative role of AI in software development.**
-- 🤝 Open to collaborate on: **I'm eager to team up on open source initiatives, cutting-edge web apps, or innovative API integrations that challenge the status quo.**
-- 💬 Ask me about: **Web security best practices, building scalable applications, or the latest trends in software development.**
+</details>
 
----
+<details>
+<summary><b>👋 Say hello</b></summary>
+<br/>
 
-### 📫 Let's Connect
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=ammarouis&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F210534182%3Fu%3Db2ea023f72770063cec55572b93097b68a95d23b%26v%3D4" alt="ammarouis social visual" />
+</p>
 
-<div align="center">
+</details>
 
-[![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://protfileo.onrender.com/) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:goldst422@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/none) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ammarouis)
-
-</div>
-
----
-
----
-
----
-
-<div align="center">
-
-⚡ I once engineered a mini drone that delivers coffee to my friends – it's a dream project for any tech enthusiast!
-
-</div>
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=100&section=footer)
+<p align="center"><sub>Ammar Nedal Satouf 
