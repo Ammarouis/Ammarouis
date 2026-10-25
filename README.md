@@ -2,7 +2,7 @@
   <img src="https://www.gitskins.com/api/section/hero?username=ammarouis&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F210534182%3Fu%3Db2ea023f72770063cec55572b93097b68a95d23b%26v%3D4" alt="ammarouis hero visual" />
 </p>
 
-<p align="center"><b>Ammar Nedal Satouf</b> · Frontend or full-stack engineer<br/><sub>Senior Software &amp; Security Engineer</sub></p>
+<p align="center"><b>Ammar Nedal Satouf</b> · Software & Security Engineer <br/><sub>Senior Software &amp; Security Engineer</sub></p>
 
 <p align="center"><a href="https://github.com/ammarouis">GitHub</a> · <a href="https://protfileo.onrender.com/">Website</a></p>
 
